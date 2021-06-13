@@ -1,4 +1,4 @@
-- hosts: server
+- hosts: myserver
   vars:
   - image: mushabasheera/apache-docker-ansible
   tasks:
